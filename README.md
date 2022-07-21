@@ -1,4 +1,7 @@
 # Transformer-Encoder-GRU (T-E-GRU) for Chinese Sentiment Analysis on Chinese Comment Text
+
+Zhang B, Zhou W. Transformer-Encoder-GRU (TE-GRU) for Chinese Sentiment Analysis on Chinese Comment Text[J]. Neural Processing Letters, 2022: 1-21.
+
 ## Environments
 - Python 3.6.0
 - Pytorch 1.11.0
